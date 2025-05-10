@@ -1,6 +1,6 @@
 'use strict';
 
-// DATA! Contains movement dates, currency and locale
+// DATA -> Contains movement dates, currency and locale
 
 const account1 = {
   owner: 'Shawky Ahmed',
