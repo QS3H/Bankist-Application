@@ -21,11 +21,12 @@ A minimalist banking application built with vanilla JavaScript. This project dem
 
 ## Live Demo
 
-Check out the live version of the Bankist App: [View Demo](https://qs3h.github.io/Bankist-App)
+Check out the live version of the Bankist App: [View Demo](https://qs3h.github.io/Bankist-Application/)
 
 ## Getting Started
 
 1. **Clone the repository:**
+
    ```bash
    git clone <your-repo-url>
    cd Bankist-App
@@ -38,7 +39,8 @@ Check out the live version of the Bankist App: [View Demo](https://qs3h.github.i
 ## Test Account Credentials
 
 To try the app, use these test accounts:
-- User: `js` PIN: `1111`
+
+- User: `sa` PIN: `1111`
 - User: `jd` PIN: `2222`
 
 ## Features Demonstrated
@@ -52,11 +54,14 @@ To try the app, use these test accounts:
 ## Screenshots
 
 The application features a clean, modern interface for banking operations:
+
 - Balance overview
 - Transaction history
 - Transfer functionality
 - Loan requests
 - Account management
+
+![Bankist App Screenshot](./assets/image.png)
 
 ## Learning Outcomes
 
