@@ -72,5 +72,3 @@ The application features a clean, modern interface for banking operations:
 - Building responsive user interfaces
 
 ---
-
-Feel free to fork, contribute, or reach out if you have questions!
