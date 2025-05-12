@@ -71,4 +71,3 @@ The application features a clean, modern interface for banking operations:
 - Managing financial calculations
 - Building responsive user interfaces
 
----
