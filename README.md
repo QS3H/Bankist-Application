@@ -21,7 +21,7 @@ A minimalist banking application built with vanilla JavaScript. This project dem
 
 ## Live Demo
 
-Check out the live version of the Bankist App: [View Demo](https://qs3h.github.io/Bankist-Application/)
+Check out the live version of the Bankist Application: [View Demo](https://qs3h.github.io/Bankist-Application/)
 
 ## Getting Started
 
